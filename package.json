@@ -1,0 +1,12 @@
+{
+  "name": "Typescript and node js 45 Assignment",
+  "version": "1.0.0",
+  "description": "In this Typescript file I solved all 45 Assignment of governor sindh initative ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": " Shahnoor jawed (Roll no : 00140540)",
+  "license": "ISC"
+}
